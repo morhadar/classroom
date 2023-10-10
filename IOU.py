@@ -33,4 +33,4 @@ print(f' f1= {f1_score(a,b)}')
 #%% #! resources:
 # https://tomkwok.com/posts/iou-vs-f1/
 # https://stats.stackexchange.com/questions/273537/f1-dice-score-vs-iou/276144#276144 
-
+# https://ilmonteux.github.io/2019/05/10/segmentation-metrics.html
